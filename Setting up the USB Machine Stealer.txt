@@ -1,0 +1,12 @@
+Decompress everything in the same folder.
+
+The 'Autorun' folder contains the .bat for starting the programs automatically when you plug the USB
+The 'Source' folder contains all the .exes for this method
+The 'Zip Root' folder contains all the .exes in .zip version in case one of those doesn't work because of the antivirus
+-You can also download them again from here: https://www.nirsoft.net/
+
+1- Get an USB stick (storage doesn't matter as this requires only a few MB)
+2- Copy all the files in 'Autorun' and 'Source' to the USB stick
+3- Unplug and plug into your victim PC ;)
+
+for more information you can contact me on fb.com/jonasdirico
